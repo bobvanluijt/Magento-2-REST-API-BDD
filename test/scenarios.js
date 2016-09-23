@@ -16,7 +16,7 @@ var should  = require('should');
 
 var magentoRestUrl = 'http://localhost/index.php/rest/default/V1'; // set in travis yaml file.
 
-describe('Buy a simple product', () => {
+describe('Alice\'s Shopping Experience', () => {
 
     it('should get a product with certain properties', function(done) {
 
